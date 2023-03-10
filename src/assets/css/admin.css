@@ -1,0 +1,4 @@
+#customPagination {margin-top: 15px; margin-bottom: 15px;float: right;}
+#customPagination .pagination {text-align:right;}
+#customPagination .ms-Button {border: 0px;min-width: 32px;}
+#customPagination .ms-Button--primary{background: #890C58;}
