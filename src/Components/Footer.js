@@ -43,11 +43,10 @@ export default function Footer() {
                             <h6 className="footer-title-29">Address</h6>
                             <div className="footer-listw3-grids">
                                 <ul className="footer-listw3">
-                                    <li>London, UK</li>
-                                    <li>998 13h Street, Office 436</li>
-                                    <li>Harlo 61466</li>
-                                    <li><a href="tel:+(21) 255 999 8888">+(21) 255 999 8888</a></li>
-                                    <li><a href="mailto:ShoppyKart@mail.com" className="mail">ShoppyKart@mail.com</a></li>
+                                    <li>Near Jodhpur Cross Road</li>
+                                    <li>Ahmedabad, 380015</li>
+                                    <li><a href="tel:+91 7572 861 142">+91 7572 861 142</a></li>
+                                    <li><a href="mailto:contact@GoodieCraft.com" className="mail">contact@GoodieCraft.com</a></li>
 
                                 </ul>
 

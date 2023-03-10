@@ -32,8 +32,8 @@ export default function InvoicePDF() {
                             <div className="col-sm-6">
                                 <h5 className="mb-3">From:</h5>
                                 <h3 className="text-dark mb-1">Goodie Craft</h3>
-                                <div>29, Singla Street</div>
-                                <div>Sikeston,New Delhi 110034</div>
+                                <div>Near Jodhpur Cross Road</div>
+                                <div>Ahmedabad 380015</div>
                                 <div>Email: contact@GoodieCraft.com</div>
                                 <div>Phone: +91 7572 861 142</div>
                             </div>
